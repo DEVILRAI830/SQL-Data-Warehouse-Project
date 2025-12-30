@@ -83,7 +83,7 @@ data-warehouse-project/
 
 ## ☕ Stay Connected
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me on Linkedin:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/vansh-rai-88947a362
 
@@ -95,5 +95,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-HHi there! 👋
+Hi there! 👋
 I’m **Vansh Rai**, a student with a growing interest in **Data Analytics and AI/ML**. This project reflects my learning journey, where I’m building a strong foundation in SQL, ETL processes, and data warehousing through hands-on practice.
